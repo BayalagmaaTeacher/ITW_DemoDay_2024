@@ -4,55 +4,73 @@ const allwebs = [
       webs: [
         {
           names: ['Amartuvshin'],
-          link: './7a/Amartuvshin/index.html'
+          link: './7a/Amartuvshin/index.html',
+          image:'./web/Amartuvshin.png'
         },
         {
           names: ['Anand'],
-          link: './7a/Anand/index.html'
+          link: './7a/Anand/index.html',
+          image:'./web/Anand.png'
         },
         {
           names: ['Baasansuren'],
-          link: './7a/Baasansuren/index.html'
+          link: './7a/Baasansuren/index.html',
+          image:'./web/Baasansuren.png'
         },
         {
           names: ['Bileg'],
-          link: './7a/Bileg/index.html'
+          link: './7a/Bileg/index.html',
+          image:'./web/Bileg.png'
         },
         {
           names: ['Ermuun'],
-          link: './7a/Ermuun/index.html'
+          link: './7a/Ermuun/index.html',
+          image: './web/Ermuun.png'
         },
         {
           names: ['Gansuld'],
-          link: './7a/Gansuld/index.html'
+          link: './7a/Gansuld/index.html',
+          image: './web/Gansuld.png'
         },
         {
           names: ['Indranil'],
-          link: './7a/Indranil/index.html'
+          link: './7a/Indranil/index.html',
+          image:'./web/Indranil.png'
         },
         {
           names: ['Khuselbayar'],
-          link: './7a/Khuselbayar/index.html'
+          link: './7a/Khuselbayar/index.html',
+          image:'./web/Khuselbayar.png'
         },
         {
           names: ['Maralmaa'],
-          link: './7a/Maralmaa/index.html'
+          link: './7a/Maralmaa/index.html',
+          image:'./web/Maralmaa.png'
         },
         {
           names: ['Nandia'],
-          link: './7a/Nandia/index.html'
+          link: './7a/Nandia/index.html',
+          image:'./web/Nandia.png'
         },
         {
           names: ['Nomin-Erdene'],
-          link: './7a/Nomin-Erdene/index.html'
+          link: './7a/Nomin-Erdene/index.html',
+          image: './web/Nomin-Erdene.png'
         },
         {
           names: ['Soyombo'],
-          link: './7a/Soyombo/index.html'
+          link: './7a/Soyombo/index.html',
+          image: './web/Soyombo.png'
         },
         {
           names: ['Tengis'],
-          link: './7a/Tengis/index.html'
+          link: './7a/Tengis/index.html',
+          image: './web/Tengis.png'
+        },
+        {
+          names: ['Mergen'],
+          link: './7a/Mergen/index.html',
+          image: './web/Mergen.png'
         },
       ]
     },
@@ -61,39 +79,48 @@ const allwebs = [
       webs: [
         {
           names: ['Amirlan'],
-          link: './7b/Amirlan/index.html'
+          link: './7b/Amirlan/index.html',
+          image: './web/Amirlan.png'
         },
         {
           names: ['Baatarkhuu'],
-          link: './7b/Baatarkhuu/index.html'
+          link: './7b/Baatarkhuu/index.html',
+          image:'./web/Baatarkhuu.png'
         },
         {
           names: ['Enkh-Uchral'],
-          link: './7b/Enkh-Uchral/index.html'
+          link: './7b/Enkh-Uchral/index.html',
+          image: './web/Enkh-Uchiral.png'
         },
         {
           names: ['Erkhes'],
-          link: './7b/Erkhes/index.html'
+          link: './7b/Erkhes/index.html',
+          image: './web/Erkhes.png'
         },
         {
           names: ['Garid'],
-          link: './7b/Garid/index.html'
+          link: './7b/Garid/index.html',
+          image: './web/Garid.png'
         },
         {
           names: ['Khuselbayr'],
-          link: './7b/Khuselbayr/index.html'
+          link: './7b/Khuselbayr/index.html',
+          image: './web/Khuselbayr.png'
         },
         {
           names: ['Michid'],
-          link: './7b/Michid/index.html'
+          link: './7b/Michid/index.html',
+          image: './web/Michid.png'
         },
         {
           names: ['Molor'],
-          link: './7b/Molor/index.html'
+          link: './7b/Molor/index.html',
+          image: './web/Molor.png'
         },
         {
           names: ['Munkh-Erdene'],
-          link: './7b/Munkh-Erdene/index.html'
+          link: './7b/Munkh-Erdene/index.html',
+          image: './web/Munkh-Erdene.png'
         },
       ]
     },
@@ -102,19 +129,23 @@ const allwebs = [
       webs: [
         {
           names: ['Tulga', 'TJ', 'Tugs-Erdene'],
-          link: 'https://nendhx.github.io/Volleyball/'
+          link: 'https://nendhx.github.io/Volleyball/',
+          image:'./web/Tulga.png'
         },
         {
           names: ['Urankhishig'],
-          link: 'https://liyaxxxx.github.io/9r-angi-3r-uliral-Web/'
+          link: 'https://liyaxxxx.github.io/9r-angi-3r-uliral-Web/',
+          image: './web/Urankhishig.png'
         },
         {
           names: ['Bilguun'],
-          link: 'https://bilguunbhaa.github.io/flybeyond/'
+          link: 'https://bilguunbhaa.github.io/flybeyond/',
+          image: './web/Bilguun.png'
         },
         {
           names: ['Ermuun', 'Orgil'],
-          link: 'https://rgltsogt.github.io/WebProject/'
+          link: 'https://rgltsogt.github.io/WebProject/',
+          image: './web/orgil.png'
         }
       ]
     },
@@ -122,57 +153,63 @@ const allwebs = [
       grade: '9v',
       webs: [
         {
+          names: ['Chingun', 'Nyamragchaa'],
+          link: 'https://ulankachingun.github.io/Horse-Booking/',
+          image: './web/chingun.png'
+        },
+        {
           names: ['Tselmeg', 'A.Anand', 'Enkhtushig'],
-          link: 'https://nest9v.github.io/tusul22/'
+          link: 'https://nest9v.github.io/tusul22/',
+          image: './web/Anand.png'
         },
         {
           names: ['Tselmuun', 'Diana', 'Munkhchimeg'],
-          link: 'https://irkaa.github.io/pony/'
+          link: 'https://irkaa.github.io/pony/',
+          image: './web/diana.png'
         }
       ]
     },
   ];
   
   
-  // Function to fetch and display products
-  function fetchAndDisplayProducts() {
-    const productList = document.getElementById("product-list");
+// Function to generate HTML code for each website
+function generateWebsiteHTML(website) {
+    // If image URL is not provided, use a placeholder
+    const imageUrl = website.image ? website.image : 'placeholder_image_url.jpg';
   
+    // Convert names array to a string
+    const names = website.names.join(', ');
+  
+    // Check if the link property exists
+    const linkHTML = website.link ? `<p><a href="${website.link}" target="_blank">Visit Website</a></p>` : '';
+  
+    return `
+      <li>
+        <div class="details">
+          <div class="product">
+            <img src="${imageUrl}" alt="${names}">
+          </div>
+          <h2>${names}</h2>
+          ${linkHTML}
+        </div>
+      </li>
+    `;
+  }
+  
+  // Function to print websites to the HTML
+  function printWebsites() {
+    const websiteList = document.querySelector("ul"); // Assuming you have a <ul> element as the container
+  
+    // Loop through all grade levels
     allwebs.forEach(grade => {
+      // Loop through all websites in a grade
       grade.webs.forEach(website => {
-        // Create li element
-        const li = document.createElement("li");
-  
-        // Create details div
-        const detailsDiv = document.createElement("div");
-        detailsDiv.classList.add("details");
-  
-        // Create h2 element for website name
-        const websiteName = document.createElement("h2");
-        websiteName.textContent = website.names.join(', ');
-  
-        // Create p element for website link
-        const websiteLink = document.createElement("p");
-        websiteLink.innerHTML = `<a href="${website.link}" target="_blank">Visit Website</a>`;
-  
-        // Create product div
-        const productDiv = document.createElement("div");
-        productDiv.classList.add("product");
-  
-        // Append elements to details div
-        detailsDiv.appendChild(websiteName);
-        detailsDiv.appendChild(websiteLink);
-        detailsDiv.appendChild(productDiv);
-  
-        // Append details div to li
-        li.appendChild(detailsDiv);
-  
-        // Append li to product list
-        productList.appendChild(li);
+        const websiteHTML = generateWebsiteHTML(website);
+        websiteList.innerHTML += websiteHTML;
       });
     });
   }
   
-  // Call the function to fetch and display products
-  fetchAndDisplayProducts();
+  // Call the printWebsites function to print websites to the HTML
+  printWebsites();
   
