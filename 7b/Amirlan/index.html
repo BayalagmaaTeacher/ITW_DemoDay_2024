@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>simple portfolio</title>
+    <link rel="stylesheet" href="index.css">
+</head>
+<body>
+   <div id="header">
+     <div class="container">
+    <nav>
+         <img src="/images/Amirln logo.png" class="logo">
+     <ul> 
+        <li><a href="#">home</a></li>
+        <li><a href="#">about</a></li>
+        <li><a href="#">services</a></li>
+        <li><a href="#">portfolio</a></li>
+        <li><a href="#">contact</a></li>
+     </ul>
+    </nav>
+    <div class="header-text">
+        <p>UI/UX DESIHGNER</p>
+        <h1> HI,I'm <span>Amirlan</span><br> Bilguun. I'm from MONGOLIA</h1>
+       </div>
+     </div>  
+   </div>
+   /*-------------about-------------------*/
+   <div id="about">
+    <div class="container">
+        <div class="row">
+            <div class="about-col-1">
+                <img src="images/Photo on 2024.04.15 at 19.57.jpg" alt="">
+            </div>
+            <div class="about-col-2">
+                <h1 class="sub-title">ABOUT ME</h1>
+                <p> I'm very good at debating. 
+                    My hobbie is drawing,baking,
+                    cooking,loving,swimming,reading,sleeping.... 
+                    1 thing that I think is 
+                    "how can we change Mongolia? 
+                    let's do something together! 
+                    what can we do now?
+                     I want to change the world......</p>
+                     
+                     <div class="tab-titles">
+                         <p class="tab-links active-link" onclick="opentab('Goal')">Goal</p>
+                         <p class="tab-links" onclick="opentab(Progress)">Progress</p>
+                         <p class="tab-links" onclick="opentab(Education)">Education</p>
+                    </div>
+                    <div class="tab-contents" id="Progress">
+                        <ul>
+                            <li><span>2017-2019</span><br>I received an invitation to participate in the Olympiad</li>
+                            <li><span>2022</span><br> Became a Student Who Respects Nest Education IT School's values,Kangaroo entered the Olympiad and received a 3rd class diploma</li>
+                            <li><span>With Team</span><br>There is too many Diploma</li>
+
+                        </ul>
+                    </div>
+                    <div class="tab-contents" id="Education">
+                        <ul>
+                            <li><span>2017-2019</span><br>Grades 94-96 A</li>
+                            <li><span>2020-2022</span><br>Grades 94-95 A </li>
+                            <li><span>Knowledge and Experiences</span><br>All Content and Subjects of Middle and Elementary school</li>
+
+                        </ul>
+                    </div>
+                    <div class="tab-contents active-tab" id="Goal">
+                        <ul>
+                            <li><span>Go to University in Germany</span><br>I don't Know What university I will go...</li>
+                            <li><span>Make Mongolia Better</span><br>I will make Mongolia better...</li>
+                            <li><span>Be Better Person</span><br>I will work on my personality...</li>
+                        </ul>
+                    </div>
+                </div>    
+            </div>
+        </div>
+   </div>
+
+<script>
+var tablinks = document.getElementsByClassName("tab-links");
+var tabcontents = document.getElementsByClassName("tab-contents");
+function opentab(tabname){
+    for(tablink of tablinks){
+        tablink.classList.remove("active-link");
+    }
+    for(tabcontent of tabcontents){
+        tabcontent.classList.remove("active-tab");
+    }
+    event.currentTarget.classList.add("active-link");
+}
+
+
+</script>
+</body>
+</html>

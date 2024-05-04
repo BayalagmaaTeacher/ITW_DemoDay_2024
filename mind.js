@@ -81,53 +81,118 @@ const gridItems = [
       grade: '7a',
       webs: [
         {
-          names: ['zoloo', 'zoko', 'azaa'],
-          web: 'url#'
-        }
+          names: ['Amartuvshin'],
+          link: './Amartuvshin/index.html'
+        },
+        {
+          names: ['Anand'],
+          link: './Anand/index.html'
+        },
+        {
+          names: ['Baasansuren'],
+          link: './Baasansuren/index.html'
+        },
+        {
+          names: ['Bileg'],
+          link: './Bileg/index.html'
+        },
+        {
+          names: ['Ermuun'],
+          link: './Ermuun/index.html'
+        },
+        {
+          names: ['Gansuld'],
+          link: './Gansuld/index.html'
+        },
+        {
+          names: ['Indranil'],
+          link: './Indranil/index.html'
+        },
+        {
+          names: ['Khuselbayar'],
+          link: './Khuselbayar/index.html'
+        },
+        {
+          names: ['Maralmaa'],
+          link: './Maralmaa/index.html'
+        },
+        {
+          names: ['Nandia'],
+          link: './Nandia/index.html'
+        },
+        {
+          names: ['Nomin-Erdene'],
+          link: './Nomin-Erdene/index.html'
+        },   
+        {
+          names: ['Soyombo'],
+          link: './Soyombo/index.html'
+        },
+        {
+          names: ['Tengis'],
+          link: './Tengis/index.html'
+        },
       ]
     },
     {
       grade: '7b',
       webs: [
         {
-          names: ['zoloo', 'zoko', 'azaa'],
-          web: 'url#'
-        }
-      ]
-    },
-    {
-      grade: '8a',
-      webs: [
+          names: ['Amirlan'],
+          link: './Amirlan/index.html'
+        },
         {
-          names: ['zoloo', 'zoko', 'azaa'],
-          web: 'url#'
-        }
-      ]
-    },
-    {
-      grade: '8b',
-      webs: [
+          names: ['Baatarkhuu'],
+          link: './Baatarkhuu/index.html'
+        },
         {
-          names: ['zoloo', 'zoko', 'azaa'],
-          web: 'url#'
-        }
+          names: ['Enkh-Uchral'],
+          link: './Enkh-Uchral/index.html'
+        },
+        {
+          names: ['Erkhes'],
+          link: './Erkhes/index.html'
+        },
+        {
+          names: ['Garid'],
+          link: './Garid/index.html'
+        },
+        {
+          names: ['Khuselbayr'],
+          link: './Khuselbayr/index.html'
+        },
+        {
+          names: ['Michid'],
+          link: './Michid/index.html'
+        },
+        {
+          names: ['Molor'],
+          link: './Molor/index.html'
+        },
+        {
+          names: ['Munkh-Erdene'],
+          link: './Munkh-Erdene/index.html'
+        },
       ]
     },
     {
       grade: '9a',
       webs: [
         {
-          names: ['zoloo', 'zoko', 'azaa'],
-          web: 'url#'
-        }
-      ]
-    },
-    {
-      grade: '9b',
-      webs: [
+          names: ['Tulga', 'TJ', 'Tugs-Erdene'],
+          link: 'https://nendhx.github.io/Volleyball/'
+        },
         {
-          names: ['zoloo', 'zoko', 'azaa'],
-          web: 'url#'
+          names: ['Urankhishig'],
+          link: 'https://liyaxxxx.github.io/9r-angi-3r-uliral-Web/'
+        },
+        {
+          names: ['Bilguun'],
+          link: 'https://bilguunbhaa.github.io/flybeyond/'
+        },
+        {
+          names: ['Ermuun', Orgil],
+          link: 'https://rgltsogt.github.io/WebProject/'
         }
       ]
     },
@@ -135,12 +200,15 @@ const gridItems = [
       grade: '9v',
       webs: [
         {
-          names: ['zoloo', 'zoko', 'azaa'],
-          web: 'url#'
+          names: ['Tselmeg','A.Anand','Enkhtushig'],
+          link: 'https://nest9v.github.io/tusul22/'
+        },
+        {
+          names: ['Tselmuun','Diana','Munkhchimeg'],
+          link: 'https://irkaa.github.io/pony/'
         }
       ]
     },
-   
-   
+    
   ];
   

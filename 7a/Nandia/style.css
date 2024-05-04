@@ -1,0 +1,91 @@
+.container{
+    width: 100%;  
+    height: 100vh;
+    background-color:blue ;
+    display: flex;
+    justify-content: space-around;  
+}
+.first{
+    width: 33%;
+    height: 100%;
+    background-color: rgba(0,212,255,1);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.card{
+    width: 90%;
+    height: 90%;
+    background-color: pink;
+    display: flex;
+    justify-content: flex-end;
+    background: rgb(2,0,36);
+    background: rgb(2,0,36);
+    background: linear-gradient(180deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
+}
+.circle{
+    width: 70px;
+    height: 70px;
+    background-color: aliceblue;
+    border-radius: 50%;
+    margin: 10px;
+}
+.second{
+    width: 33%;
+    height: 100%;
+    background-color:  rgba(9,121,38,1);
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+.a{
+    width: 90%;
+    height: 20%;
+    background: rgb(2,0,36);
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,121,38,1) 90%);
+}
+background: rgb(232,222,108);
+background: linear-gradient(90deg, rgba(232,222,108,1) 33%, rgba(176,195,76,1) 61%, rgba(219,218,73,1) 100%, rgba(0,212,255,1) 100%);
+}
+.top{
+    width: 90%;
+    height: 30%;
+    background-color: cyan;
+    display: flex;
+    align-items: flex-end;
+}
+.bottom{
+    width: 90%;
+    height: 60%;
+    background-color: brown;
+    display: flex;
+}
+.left{
+    width: 50%;
+    height: 100%;
+    background-color: green;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: column;
+}
+.right{
+    width: 50%;
+    height: 100%;
+    background-color: orange;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: column;
+}
+.small{
+    width: 95%;
+    height: 20%;
+    background-color: deepskyblue;
+}
+.big{
+    width: 95%;
+    height: 30%;
+    background-color: greenyello
