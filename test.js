@@ -150,6 +150,31 @@ const allwebs = [
       ]
     },
     {
+      grade: '9b',
+      webs: [
+        {
+          names: ['B.Chinguun', 'Khuder'],
+          link: 'https://kobi-1.github.io/All-my-brothas/#',
+          image:'./web/kobi.png'
+        },
+        {
+          names: ['Angarag', 'E.Chinguun'],
+          link: 'https://nenukrc.github.io/Random-generator/main/',
+          image: './web/Angarag.png'
+        },
+        {
+          names: ['Bilguun', 'Buyndorj'],
+          link: 'https://buyakakkk.github.io/Demo-day2/',
+          image: './web/buyka.png'
+        },
+        {
+          names: ['Turmunkh', 'Azjargal'],
+          link: 'https://turuuuuuu.github.io/sass/index.html',
+          image: './web/Turmunkh.png'
+        }
+      ]
+    },
+    {
       grade: '9v',
       webs: [
         {
